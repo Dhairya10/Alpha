@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">357337857004-c79fbfje7i6cpihgeho0jmpn736uere9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://alpha-demo-15d5d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">357337857004</string>
+    <string name="google_api_key" translatable="false">AIzaSyBt9bR7r6TSlXesk9EL_65G_sUuR6QlXuA</string>
+    <string name="google_app_id" translatable="false">1:357337857004:android:18d865fe03826172</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBt9bR7r6TSlXesk9EL_65G_sUuR6QlXuA</string>
+    <string name="google_storage_bucket" translatable="false">alpha-demo-15d5d.appspot.com</string>
+    <string name="project_id" translatable="false">alpha-demo-15d5d</string>
+</resources>

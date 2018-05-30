@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alpha</string>
+    <string name="read">Read</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="aws_region">us-east-2</string>
+    <string name="facebook_application_id" translatable="false">1544280962349536</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1544280962349536</string>
+    <string name="choice">Choose an option from the following</string>
+    <string name="Rekognition">Amazon Rekognition</string>
+    <string name="Polly">Amazon Polly</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="Rekognition_description"> It is used for image and video analytics and facial recognition</string>
+    <string name="Polly_description"> It is a cloud service that converts text into lifelike speech</string>
+    <string name="invalid_image">Please select a valid image</string>
+</resources>
