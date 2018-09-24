@@ -164,6 +164,7 @@
     <color name="colorAccent" ns1:ignore="ResourceName">#FF4081</color>
     <color name="colorPrimary" ns1:ignore="ResourceName">#3F51B5</color>
     <color name="colorPrimaryDark" ns1:ignore="ResourceName">#303F9F</color>
+    <color name="color_background">#ff303030</color>
     <color name="com_facebook_blue">#3B5998</color>
     <color name="com_facebook_button_background_color">#415dae</color>
     <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
@@ -959,12 +960,14 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns2:g example="Mail" id="application_name">%s</ns2:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_close">Close</string>
+    <string name="age_details">The age details of the user will be displayed here</string>
     <string name="app_name">Alpha</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="aws_region">us-east-2</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="choice">Choose an option from the following</string>
+    <string name="choose">CHOOSE</string>
     <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">77252c51-646a-4395-affc-28655847aec9</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>

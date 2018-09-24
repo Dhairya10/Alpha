@@ -6,13 +6,13 @@ INJECTED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha
 INJECTED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/src/main/AndroidManifest.xml:2:1-41:12
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:2:1-93:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f1b95e8441a5b702b1ea88831761695f/AndroidManifest.xml:2:1-11:12
-MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.20.aar/680d1466a6920d348a0bfec256560d6a/AndroidManifest.xml:2:1-6:12
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:2:1-10:80
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.31.aar/e858414f931f0124247e78088a852d40/AndroidManifest.xml:2:1-6:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:2:1-10:80
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:2:1-10:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/88c6d73a4e55df5ecc37bb14655ca8ec/AndroidManifest.xml:21:1-31:12
 MERGED from [com.nbsp:library:1.8] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/438a9c4b446e2f538cfaa59a880d4b83/AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/326537d371d2550ffabef58773b530b3/AndroidManifest.xml:2:1-6:12
-MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.20.aar/30d1731f7a7190d83846d24fa6de426f/AndroidManifest.xml:2:1-4:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.31.aar/39790d0fe520bcc15b6332f978ebfc67/AndroidManifest.xml:2:1-4:80
 MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/88c3279e62a75de3a05eb7d83e9c1a35/AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/febb27ff2eb9a8e502851c76fbfa82a9/AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:design:27.1.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3d9c202a03d1c6a16e6dbabf7833290a/AndroidManifest.xml:17:1-22:12
@@ -77,10 +77,10 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:13:5-67
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:13:5-67
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:4:5-66
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:4:5-66
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:6:5-66
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:6:5-66
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/90bae6290c620ddfbc315e9a68071465/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/90bae6290c620ddfbc315e9a68071465/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/26943b12c1ffb6d656b749c888513451/AndroidManifest.xml:23:5-67
@@ -93,10 +93,10 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/src/main/AndroidManifest.xml:6:5-79
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:12:5-79
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:12:5-79
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:5:5-78
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:5:5-78
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:5:5-78
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:5:5-78
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/90bae6290c620ddfbc315e9a68071465/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/90bae6290c620ddfbc315e9a68071465/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/26943b12c1ffb6d656b749c888513451/AndroidManifest.xml:24:5-79
@@ -113,8 +113,8 @@ MERGED from [com.nbsp:library:1.8] /Users/dhairyakumar/.gradle/caches/transforms
 		ADDED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.RECORD_AUDIO
 ADDED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/src/main/AndroidManifest.xml:8:5-71
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:4:5-70
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:4:5-70
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:4:5-70
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:4:5-70
 	android:name
 		ADDED from /Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/src/main/AndroidManifest.xml:8:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -227,20 +227,20 @@ MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f1b95e8441a5b702b1ea88831761695f/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f1b95e8441a5b702b1ea88831761695f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.20.aar/680d1466a6920d348a0bfec256560d6a/AndroidManifest.xml:4:5-73
-MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.20.aar/680d1466a6920d348a0bfec256560d6a/AndroidManifest.xml:4:5-73
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:10:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:10:1-69
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:8:5-73
-MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/AndroidManifest.xml:8:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.31.aar/e858414f931f0124247e78088a852d40/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.31.aar/e858414f931f0124247e78088a852d40/AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:8:5-73
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/AndroidManifest.xml:8:5-73
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/88c6d73a4e55df5ecc37bb14655ca8ec/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/88c6d73a4e55df5ecc37bb14655ca8ec/AndroidManifest.xml:24:5-26:41
 MERGED from [com.nbsp:library:1.8] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/438a9c4b446e2f538cfaa59a880d4b83/AndroidManifest.xml:7:5-9:41
 MERGED from [com.nbsp:library:1.8] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/438a9c4b446e2f538cfaa59a880d4b83/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/326537d371d2550ffabef58773b530b3/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/326537d371d2550ffabef58773b530b3/AndroidManifest.xml:4:5-43
-MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.20.aar/30d1731f7a7190d83846d24fa6de426f/AndroidManifest.xml:4:1-69
-MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.20] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.20.aar/30d1731f7a7190d83846d24fa6de426f/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.31.aar/39790d0fe520bcc15b6332f978ebfc67/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.31.aar/39790d0fe520bcc15b6332f978ebfc67/AndroidManifest.xml:4:1-69
 MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/88c3279e62a75de3a05eb7d83e9c1a35/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:15.0.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.0.aar/88c3279e62a75de3a05eb7d83e9c1a35/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:15.0.0] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-auth-15.0.0.aar/febb27ff2eb9a8e502851c76fbfa82a9/AndroidManifest.xml:20:5-44
@@ -490,17 +490,17 @@ ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/c
 	android:name
 		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/4948d8d936960245ce4d17e9f8805a5a/AndroidManifest.xml:87:13-79
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:6:5-75
+ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:6:5-75
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:6:22-73
+		ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:6:22-73
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:7:5-70
+ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:7:5-70
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:7:22-68
+		ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:7:22-68
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:8:5-73
+ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:8:5-73
 	android:name
-		ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.19] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/AndroidManifest.xml:8:22-71
+		ADDED from [com.amazonaws:aws-android-sdk-auth-google:2.6.31] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/AndroidManifest.xml:8:22-71
 activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
 ADDED from [com.nbsp:library:1.8] /Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/438a9c4b446e2f538cfaa59a880d4b83/AndroidManifest.xml:14:9-17:20
 	android:theme

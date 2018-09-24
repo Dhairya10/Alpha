@@ -12,4 +12,6 @@
     <string name="Rekognition_description"> It is used for image and video analytics and facial recognition</string>
     <string name="Polly_description"> It is a cloud service that converts text into lifelike speech</string>
     <string name="invalid_image">Please select a valid image</string>
+    <string name="age_details">The age details of the user will be displayed here</string>
+    <string name="choose">CHOOSE</string>
 </resources>

@@ -293,7 +293,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-tvdpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-tvdpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-tvdpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_close_white_24dp.png.flat",
@@ -501,7 +501,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-hdpi_mic.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-hdpi/mic.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-hdpi/mic.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -541,7 +541,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lex_speak.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-xxhdpi/lex_speak.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-xxhdpi/lex_speak.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -881,7 +881,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xhdpi_lex_speak.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-xhdpi/lex_speak.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-xhdpi/lex_speak.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
@@ -961,7 +961,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxhdpi_mic.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-xxhdpi/mic.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-xxhdpi/mic.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
@@ -985,7 +985,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-hdpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-hdpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-hdpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
@@ -1725,7 +1725,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-ldpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-ldpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-ldpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -1897,7 +1897,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/layout_voice_component.xml.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/layout/voice_component.xml"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/layout/voice_component.xml"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_video_box.png.flat",
@@ -1965,7 +1965,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-mdpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-mdpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-mdpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
@@ -2313,7 +2313,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-hdpi_lex_speak.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-hdpi/lex_speak.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-hdpi/lex_speak.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_pdf_box.png.flat",
@@ -2361,7 +2361,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxhdpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-xxhdpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-xxhdpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
@@ -2701,7 +2701,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xhdpi_mic.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-xhdpi/mic.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-xhdpi/mic.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -2729,7 +2729,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-mdpi_mic.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-mdpi/mic.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-mdpi/mic.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
@@ -2801,7 +2801,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xhdpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-xhdpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-xhdpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -2973,7 +2973,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_google_icon.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.19.aar/6f25d336fc201713b08e1a1b920049dc/res/drawable-xxxhdpi/google_icon.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-google-2.6.31.aar/e8010b848fe9b670904cd01171ee769c/res/drawable-xxxhdpi/google_icon.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -3045,7 +3045,7 @@
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-mdpi_lex_speak.png.flat",
-        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.20.aar/d77549265b52bd28fe944c5ab194968e/res/drawable-mdpi/lex_speak.png"
+        "source": "/Users/dhairyakumar/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-lex-2.6.31.aar/9e6149425e826e8645ac236515d7f9d9/res/drawable-mdpi/lex_speak.png"
     },
     {
         "merged": "/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",

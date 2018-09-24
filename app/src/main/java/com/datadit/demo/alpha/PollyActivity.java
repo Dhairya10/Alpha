@@ -198,7 +198,7 @@ public class PollyActivity extends Activity {
 
         TextView textViewName = findViewById(R.id.textViewName);
         String userName = getIntent().getStringExtra("Name");
-        String name = "Hello " + userName;
+        String name = "Hello ";
 
         ConnectivityManager connectivityManager = (ConnectivityManager) this.getSystemService(Context.CONNECTIVITY_SERVICE);
         if (connectivityManager != null) {

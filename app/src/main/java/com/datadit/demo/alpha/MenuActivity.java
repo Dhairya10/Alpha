@@ -50,7 +50,6 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
         userName = getIntent().getStringExtra("Name");
         if (userName != null) {
-            Toast.makeText(this, "Welcome " + userName, Toast.LENGTH_SHORT).show();
             Log.i(TAG, "User Logged in Successfully");
         }
     }
@@ -69,7 +68,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
         } else if (view == textViewRekognition) {
             startActivity(new Intent(MenuActivity.this, RekognitionActivity.class));
-            Log.i(TAG, "User Navigated to rekognition Activity");
+            Log.i(TAG, "User Navigated to Rekognition Activity");
             finish();
 
         }

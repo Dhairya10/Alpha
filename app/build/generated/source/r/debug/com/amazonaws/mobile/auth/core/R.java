@@ -16,7 +16,7 @@ public final class R {
         public static final int small = 0x7f0800e3;
     }
     public static final class string {
-        public static final int sign_in_failure_message_format = 0x7f0f00dd;
+        public static final int sign_in_failure_message_format = 0x7f0f00df;
     }
     public static final class styleable {
         public static final int[] SignInButton = { 0x7f03004a, 0x7f03004f, 0x7f03006b, 0x7f03014f, 0x7f030185 };

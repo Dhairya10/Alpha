@@ -8,6 +8,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.Signature;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Base64;
@@ -29,6 +30,7 @@ public class LoginActivity extends AppCompatActivity {
 
     private static final int RC_SIGN_IN = 123;
     private static final String TAG = "LoginActivity";
+    boolean doubleBackToExitPressedOnce = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -86,9 +88,28 @@ public class LoginActivity extends AppCompatActivity {
                 if (response != null) {
                     Toast.makeText(this, "Sign In Failed" + response.getError(), Toast.LENGTH_SHORT).show();
                 } else {
-                    Toast.makeText(this, "Response is Null", Toast.LENGTH_SHORT).show();
+                    Log.d(TAG,"Response is Null");
                 }
             }
         }
+    }
+
+   @Override
+    public void onBackPressed() {
+       if (doubleBackToExitPressedOnce) {
+            super.onBackPressed();
+            return;
+        }
+
+       this.doubleBackToExitPressedOnce = true;
+        Toast.makeText(this, "Press back again to exit", Toast.LENGTH_SHORT).show();
+
+        new Handler().postDelayed(new Runnable() {
+
+            @Override
+            public void run() {
+                doubleBackToExitPressedOnce=false;
+            }
+        }, 2000);
     }
 }
