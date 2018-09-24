@@ -1,0 +1,4 @@
+#Mon Sep 24 22:49:17 IST 2018
+base.0=/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

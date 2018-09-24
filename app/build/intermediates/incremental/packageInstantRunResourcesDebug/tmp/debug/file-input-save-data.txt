@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Sep 24 22:48:38 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/dhairyakumar/Downloads/aws-sdk-android-samples-master/Alpha/app/build/intermediates/assets/debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
